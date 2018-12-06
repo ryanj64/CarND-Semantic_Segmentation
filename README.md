@@ -13,7 +13,7 @@ Random Normal Kernel Mean = 0
 Random Normal Kernel Standard Deviation = 0.01
 ```
 
-I found these values to work well, but there probably could be more improvements.  The pooling layers are scaled per the tips provided by Udacity.  Once the network is trained it will run the trained network on the `driving.mp4` file using the `moviepy` library.  The rest of the read me is the original readme contents provided for this project.
+I found these values to work well, but there probably could be more improvements.  The pooling layers are scaled per the tips provided by Udacity.  Once the network is trained, it will run the trained network on the `driving.mp4` file using the `moviepy` library.  The rest of the readme is the original readme contents provided for this project.
 
 
 # Udacity Original Readme
